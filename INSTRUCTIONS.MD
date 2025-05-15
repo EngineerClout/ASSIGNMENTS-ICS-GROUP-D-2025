@@ -22,7 +22,7 @@ If you rename them, try to keep similar words so the tests recognize them.
 
 ---
 
-### 2. MMaintain Circularity and Links  
+### 2. Maintain Circularity and Links  
 Remember, this is no ordinary linked list — it’s **circular** and **doubly linked**. That means:  
 - The node after the last node loops back to the first node  
 - The node before the first node loops back to the last node  
@@ -65,11 +65,9 @@ Explain how you maintain the circular links and handle insertions/removals, so i
 - Comment your code like you’re explaining to a curious crush who has no idea what coding is  
 
 **PS:** In short, for those hoping the autograder is might detect crafty method names, it will not, at least not now, unless we use an AI Engine for that. Keep your code straightforward and your method names recognizable.
-        _Remember, the end shall justify the mean; In this case, playing by the rules will unlock the treasure_
+        _`Remember, the end shall justify the mean; In this case, playing by the rules will unlock the treasure`_
 
 Happy coding!
 
 ---
-
-**PS:** For those secretly hoping the autograder is telepathic — it’s not. Keep your code straightforward and your method names recognizable. You’ll thank yourself later.
 
